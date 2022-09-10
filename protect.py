@@ -8,7 +8,7 @@ class Foolian:
         os._exit(0)
 
     async def init(self):
-        if name == 'protect.py' or name == "\x70\x72\x6f\x74\x65\x63\x74\x2e\x70\x79":
+        if name == 'protect.py':
             pass
         else:
             self.Foolian_exit()
